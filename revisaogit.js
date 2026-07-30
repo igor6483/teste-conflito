@@ -9,3 +9,11 @@ let equipe = [
         idade: 30
     }
 ]
+equipe.push(
+{
+    nome: "enzo",
+    cargo: "desenvolvedor",
+    idade: 18
+
+}
+)
